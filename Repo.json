@@ -1,38 +1,13 @@
-[
-  {
-    "id": 1,
-    "title": "Delta",
-    "urlimg": "https://raw.githubusercontent.com/CrispTails/tailstrollin/main/ABC3F6F1-BF74-4DA3-AEE2-5B5DF6056416.png",
-    "description": "Delta is a Game Emulwtor which can emulate NES games, GENESIS games, N64 games, and more!",
-    "url": "apple-magnifier://install?url=https://objects.githubusercontent.com/github-production-release-asset-2e65be/564082244/25ec1d70-aaab-4e67-933e-c2c43f890c8b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230401T102446Z&X-Amz-Expires=300&X-Amz-Signature=da38b60b93a753d3d06866eadd43b97a83174cd4d32ec4220c171e066d8ebc52&X-Amz-SignedHeaders=host&actor_id=104925670&key_id=0&repo_id=564082244&response-content-disposition=attachment%3B%20filename%3DDelta-1.4b4.ipa&response-content-type=application%2Foctet-stream",
-    "bundleid": "com.rileytestut.delta",
-    "completed": false
-  },
-  {
-    "id": 2,
-    "title": "Wallpaper Setter",
-    "urlimg": "",
-    "description": "Allows you to Modify your Dark and Light wallpapers.",
-    "url": "apple-magnifier://install?url=https://objects.githubusercontent.com/github-production-release-asset-2e65be/533111275/eaf30fd2-60c9-4667-b1ca-2828abd15fb4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230401T103155Z&X-Amz-Expires=300&X-Amz-Signature=a933a41f9b09edaa1e1e6f95804790a2c2fa3dc22e1db02fd722b270e9805359&X-Amz-SignedHeaders=host&actor_id=104925670&key_id=0&repo_id=533111275&response-content-disposition=attachment%3B%20filename%3DWallpaperSetter_TS.ipa&response-content-type=application%2Foctet-stream",
-    "bundleid": "com.wallpaper.tails",
-    "completed": false
-  },
-  {
-    "id": 3,
-    "title": "Flappy Bird",
-    "urlimg": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
-    "description": "The good old days...",
-    "url": "apple-magnifier://install?url=https://objects.githubusercontent.com/github-production-release-asset-2e65be/533111275/f146e722-ef17-48c1-9300-75b9f8bd40e5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230401T103508Z&X-Amz-Expires=300&X-Amz-Signature=eafd2f1bd3c4dff5677e089fe85582e6fb7cb386a405b276bed64da5d703846b&X-Amz-SignedHeaders=host&actor_id=104925670&key_id=0&repo_id=533111275&response-content-disposition=attachment%3B%20filename%3Dorg.brandonplank.flappybird.ipa&response-content-type=application%2Foctet-stream",
-    "bundleid": "org.brandonplank.flappybird",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "title": "Wifi List",
-    "urlimg": "https://cdn.discordapp.com/attachments/969879614379921418/1040724357409931364/AppStore.png",
-    "description": "Wifi List allows you to view your WI-FI connection history and passwords to previous connections..",
-    "url": "apple-magnifier://install?url=https://raw.githubusercontent.com/kloytofyexploiter/Trollstore_IPAS/main/WifiList_TS.ipa",
-    "bundleid": "com.wifilist.lol",
-    "completed": false
-  },
-]
+{
+    "icon": "https://raw.githubusercontent.com/CrispTails/tailstrollin/main/ABC3F6F1-BF74-4DA3-AEE2-5B5DF6056416.png",
+    "name": "Delta",
+    "apps": [
+      {
+        "title": "Delta",
+        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+        "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/564082244/25ec1d70-aaab-4e67-933e-c2c43f890c8b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230401T102446Z&X-Amz-Expires=300&X-Amz-Signature=da38b60b93a753d3d06866eadd43b97a83174cd4d32ec4220c171e066d8ebc52&X-Amz-SignedHeaders=host&actor_id=104925670&key_id=0&repo_id=564082244&response-content-disposition=attachment%3B%20filename%3DDelta-1.4b4.ipa&response-content-type=application%2Foctet-stream",
+        "bundleid": "com.rileytestut.delta",
+        "completed": false
+      }
+    ]
+  }
