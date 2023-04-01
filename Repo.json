@@ -5,7 +5,7 @@
       {
         "title": "Delta",
         "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
-        "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/564082244/25ec1d70-aaab-4e67-933e-c2c43f890c8b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230401T102446Z&X-Amz-Expires=300&X-Amz-Signature=da38b60b93a753d3d06866eadd43b97a83174cd4d32ec4220c171e066d8ebc52&X-Amz-SignedHeaders=host&actor_id=104925670&key_id=0&repo_id=564082244&response-content-disposition=attachment%3B%20filename%3DDelta-1.4b4.ipa&response-content-type=application%2Foctet-stream",
+        "url": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
         "bundleid": "com.rileytestut.delta",
         "completed": false
       }
