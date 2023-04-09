@@ -1,13 +1,25 @@
 {
-    "icon": "https://raw.githubusercontent.com/CrispTails/tailstrollin/main/ABC3F6F1-BF74-4DA3-AEE2-5B5DF6056416.png",
-    "name": "Delta",
-    "apps": [
+   "name": "MyAltStoreRepo",
+   "description": "A collection of my favorite apps and games",
+   "packages": [
       {
-        "title": "Delta",
-        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
-        "url": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
-        "bundleid": "com.rileytestut.delta",
-        "completed": false
+         "name": "App1",
+         "bundleIdentifier": "com.myapp1",
+         "version": "1.0.0",
+         "author": "My Name",
+         "description": "My awesome app",
+         "iconURL": "https://myapp1.com/icon.png",
+         "downloadURL": "https://myapp1.com/download.ipa"
+      },
+      {
+         "name": "Game1",
+         "bundleIdentifier": "com.mygame1",
+         "version": "1.0.0",
+         "author": "My Name",
+         "description": "My awesome game",
+         "iconURL": "https://mygame1.com/icon.png",
+         "downloadURL": "https://mygame1.com/download.ipa"
       }
-    ]
-  }
+   ]
+}
+
